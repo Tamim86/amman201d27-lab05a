@@ -114,7 +114,7 @@ function multiplyArray(multArr) {
   }
   //console.log(mult);
   return [mult,'The numbers '+testArray+' have a product of '+mult+'.'];
-  //eslint-disable-line
+
 }
 
 // Here is the test for multiplyArray(); uncomment it to run it
